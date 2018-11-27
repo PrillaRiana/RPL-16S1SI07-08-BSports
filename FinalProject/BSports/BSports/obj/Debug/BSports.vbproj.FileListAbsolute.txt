@@ -1,0 +1,15 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\bin\Debug\BSports.exe.config
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\bin\Debug\BSports.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\bin\Debug\BSports.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\bin\Debug\BSports.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.Form1.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.vbproj.GenerateResource.Cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.pdb
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\bin\Debug\BSports.exe.config
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.exe
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.xml
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.pdb
