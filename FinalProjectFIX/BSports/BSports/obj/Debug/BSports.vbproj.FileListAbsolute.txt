@@ -1,0 +1,102 @@
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\bin\Debug\BSports.exe.config
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\bin\Debug\BSports.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\bin\Debug\BSports.pdb
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\bin\Debug\BSports.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.Form1.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.Resources.resources
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.vbproj.GenerateResource.Cache
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.exe
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.xml
+C:\Users\lenovo\AppData\Local\Temporary Projects\BSports\obj\Debug\BSports.pdb
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\bin\Debug\BSports.exe.config
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.exe
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.xml
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.pdb
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\bin\Debug\BSports.exe
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\bin\Debug\BSports.pdb
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\bin\Debug\BSports.xml
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.vbprojResolveAssemblyReference.cache
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.Form1.resources
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.FormBarang.resources
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.FormJenisBarang.resources
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.FormLogin.resources
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.FormPenjualan.resources
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.HalamanAdmin.resources
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.Resources.resources
+D:\AMIKOM\SEMESTER 5\TUGAS PROYEK PEMROGRAMAN\BSports\BSports\obj\Debug\BSports.vbproj.GenerateResource.Cache
+D:\Materi\Semester V\RPL\BSports\BSports\bin\Debug\BSports.exe.config
+D:\Materi\Semester V\RPL\BSports\BSports\bin\Debug\BSports.exe
+D:\Materi\Semester V\RPL\BSports\BSports\bin\Debug\BSports.pdb
+D:\Materi\Semester V\RPL\BSports\BSports\bin\Debug\BSports.xml
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.vbprojAssemblyReference.cache
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.Form1.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormCustomer.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormJenisBarang.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormKasir.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormLogin.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormPajak.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormPembelian.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormPenjualan.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormSupplier.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.HalamanAdmin.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.Resources.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.vbproj.GenerateResource.cache
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.vbproj.CoreCompileInputs.cache
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.exe
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.xml
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.pdb
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormBarang.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.HalamanPemilik.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.HalamanKasir.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormLaporanPajak.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormLaporanPembelian.resources
+D:\Materi\Semester V\RPL\BSports\BSports\obj\Debug\BSports.FormLaporanPenjualan.resources
+D:\BSports\BSports\bin\Debug\BSports.exe.config
+D:\BSports\BSports\obj\Debug\BSports.exe
+D:\BSports\BSports\obj\Debug\BSports.xml
+D:\BSports\BSports\obj\Debug\BSports.pdb
+D:\BSports\BSports\bin\Debug\BSports.exe
+D:\BSports\BSports\bin\Debug\BSports.pdb
+D:\BSports\BSports\bin\Debug\BSports.xml
+D:\BSports\BSports\obj\Debug\BSports.vbprojResolveAssemblyReference.cache
+D:\BSports\BSports\obj\Debug\BSports.FormBarang.resources
+D:\BSports\BSports\obj\Debug\BSports.FormJenisBarang.resources
+D:\BSports\BSports\obj\Debug\BSports.FormLaporanPajak.resources
+D:\BSports\BSports\obj\Debug\BSports.FormLaporanPembelian.resources
+D:\BSports\BSports\obj\Debug\BSports.FormLaporanPenjualan.resources
+D:\BSports\BSports\obj\Debug\BSports.FormLogin.resources
+D:\BSports\BSports\obj\Debug\BSports.FormPembelian.resources
+D:\BSports\BSports\obj\Debug\BSports.FormPenjualan.resources
+D:\BSports\BSports\obj\Debug\BSports.FormSupplier.resources
+D:\BSports\BSports\obj\Debug\BSports.HalamanAdmin.resources
+D:\BSports\BSports\obj\Debug\BSports.HalamanKasir.resources
+D:\BSports\BSports\obj\Debug\BSports.HalamanPemilik.resources
+D:\BSports\BSports\obj\Debug\BSports.Resources.resources
+D:\BSports\BSports\obj\Debug\BSports.vbproj.GenerateResource.Cache
+D:\BSports\BSports\obj\Debug\BSports.FormCariBaRANG.resources
+D:\BSports\BSports\obj\Debug\BSports.FormOperator.resources
+D:\BSports\BSports\obj\Debug\BSports.FormBeliBarang.resources
+D:\BSports\BSports\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.Shared.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\BSports\BSports\bin\Debug\FlashControlV71.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\BSports\BSports\bin\Debug\ShockwaveFlashObjects.dll
+D:\BSports\BSports\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\BSports\BSports\bin\Debug\stdole.dll
+D:\BSports\BSports\obj\Debug\BSports.FormCetakNota.resources
+D:\BSports\BSports\obj\Debug\BSports.FormCetakLaporanPenjualan.resources
+D:\BSports\BSports\obj\Debug\BSports.DataBarang.resources
+D:\BSports\BSports\obj\Debug\BSports.FormCetakLaporanPembelian.resources
